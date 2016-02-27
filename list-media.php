@@ -19,7 +19,6 @@ class list_media {
 				'posts_per_page' => -1,
 				'post_status' => null,
 				'post_parent' => null,
-				'numberposts' => -1,
 				'default_styles' => true,
 				'date_format' => "Y/m/d"
 				), $atts 
